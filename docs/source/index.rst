@@ -19,3 +19,4 @@ Contents
 .. toctree::
 
    xml_ajax.rst
+lyka.tutorial
