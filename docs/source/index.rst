@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   xml_ajax.rst
-lyka.tutorial
+xml_ajax.rst
+
