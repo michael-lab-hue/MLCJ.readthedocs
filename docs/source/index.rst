@@ -18,10 +18,15 @@ Contents
 
 .. toctree::
 XML AJAX
+
 XML DOM
+
 XPath
+
 XSLT
+
 XQuery
+
 XML DTD
 
    usage
