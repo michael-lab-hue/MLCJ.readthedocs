@@ -14,8 +14,12 @@ how to :ref:`installation` the project.
    This project is under active development.
 
 Contents
---------
-
-.. toctree::
-
-   lyka.rst
+Welcome to XML AJAX!
+Welcome to XML DOM!
+Welcome to XPATH!
+Welcome to XSLT!
+Welcome to XQUERY
+Welcome to XMLDTD!
+Welcome to XSD SCHEMA!
+Welcome to XSD DATATYPES!
+Welcome to WEB SERVICES!
