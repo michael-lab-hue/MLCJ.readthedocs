@@ -17,6 +17,6 @@ Contents
 --------
 
 .. toctree::
-
+XMLAJAX
    usage
    api
