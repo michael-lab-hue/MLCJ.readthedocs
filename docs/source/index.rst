@@ -17,7 +17,6 @@ Contents
 --------
 
 .. toctree::
-xml_ajax.rst
 
    usage
    api
