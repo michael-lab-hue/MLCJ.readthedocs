@@ -1,4 +1,4 @@
-Welcome to XML LEARNING SUMMARY
+Welcome to XML LEARNING SUMMARY 
 ===================================
 
 MOLITO, ,LABRADOR, HABAL,MALONES
@@ -17,6 +17,7 @@ Contents
 --------
 
 .. toctree::
+xml_ajax.rst
 
    usage
    api
